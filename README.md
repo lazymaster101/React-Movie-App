@@ -25,7 +25,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-    This is a project through which I learned how to use a public movie API to fetch popular movies and search for movies. I also learned how to use context providers in react to preserve state across the favorites and home web page instead of using props method.
+This is a project through which I learned how to use a public movie API to fetch popular movies and search for movies. I also learned how to use context providers in react to preserve state across the favorites and home web page instead of using props method.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
